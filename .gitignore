@@ -1,0 +1,15 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# SQL Server local database files
+*.mdf
+*.ndf
+*.ldf
+
+# Secrets and local configuration
+.env
+.env.*
+
